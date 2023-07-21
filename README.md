@@ -1,6 +1,5 @@
 # Product-Analyzer-Automated-Sentiment-Analysis-of-Customer-Reviews
-Objectives- To save the time invested in reading long text reviews manually.
-Description- An innovative system that takes the link of the product as input and performs the sentiment analysis of customer reviews present on that product and returns the bar plot visualizing the sentiments of reviews classified as positive or negative. 
+Objectives- To save the time invested in reading long text reviews manually.                                                       Description- An innovative system that takes the link of the product as input and performs the sentiment analysis of customer reviews present on that product and returns the bar plot visualizing the sentiments of reviews classified as positive or negative. 
 
 Need for Automated Sentiment Analysis?
 1)Manual analysis of customer reviews is a time-consuming and resource-intensive process
