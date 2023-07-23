@@ -13,3 +13,5 @@
 * Copy the link/URL of that page.
 * Paste the link as input in Product Analyzer
 * It will analyze all the reviews and finally give a bar graph of positive and negative reviews which will give the sentiment og product
+
+![Alt Text](https://github.com/hiteshstats/Product-Analyzer-Automated-Sentiment-Analysis-of-Customer-Reviews/blob/main/Output1.png?raw=true)
