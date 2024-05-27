@@ -4,9 +4,8 @@
 
 # Need for Automated Sentiment Analysis?
 * Whether it's purchasing a new product, selecting a service provider, or a restaurant, people often rely on the opinions and experiences shared by fellow customers, In today's digital landscape, customer reviews have become a vital component in the decision-making process of consumers. As businesses strive to meet the evolving needs and preferences of their target audience, understanding customer feedback has never been more crucial. 
-* Manual analysis of customer reviews is a time-consuming and resource-intensive process
+* Manual analysis of customer reviews is a time-consuming and resource-intensive process & is prone to subjectivity and bias.
 * Processing and understanding these reviews becomes an arduous task as the volume continues to increase. Businesses simply cannot keep up with the sheer scale of reviews without the aid of automation.
-* Manual analysis of customer reviews is prone to subjectivity and bias.
 
 # How does the Product Analyzer Work?
 * Open the review section of any product on the Amazon site
