@@ -1,4 +1,5 @@
 # Product-Analyzer-Automated-Sentiment-Analysis-of-Customer-Reviews
+* While purchasing a new product people often rely on the opinions and experiences shared by fellow customers. Customers don't have that much time to read every review. So, automation would make the life of customers easy to buy a good product.                                  
 * Objectives- To save the time invested in reading long text reviews manually.
 * Description- An innovative system that takes the link of the product as input and performs the sentiment analysis of customer reviews present on that product and returns the bar plot visualizing the sentiments of reviews classified as positive or negative. 
 
