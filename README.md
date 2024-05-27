@@ -3,10 +3,10 @@
 * Description- An innovative system that takes the link of the product as input and performs the sentiment analysis of customer reviews present on that product and returns the bar plot visualizing the sentiments of reviews classified as positive or negative. 
 
 # Need for Automated Sentiment Analysis?
+* Whether it's purchasing a new product, selecting a service provider, or a restaurant, people often rely on the opinions and experiences shared by fellow customers, In today's digital landscape, customer reviews have become a vital component in the decision-making process of consumers. As businesses strive to meet the evolving needs and preferences of their target audience, understanding customer feedback has never been more crucial. 
 * Manual analysis of customer reviews is a time-consuming and resource-intensive process
 * Processing and understanding these reviews becomes an arduous task as the volume continues to increase. Businesses simply cannot keep up with the sheer scale of reviews without the aid of automation.
-* Manual analysis of customer reviews is prone to subjectivity and bias
-* Businesses that operate across various product categories or have a wide range of offerings face the challenge of scalability and adaptability in manual analysis
+* Manual analysis of customer reviews is prone to subjectivity and bias.
 
 # How does the Product Analyzer Work?
 * Open the review section of any product on the Amazon site
